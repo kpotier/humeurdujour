@@ -1,0 +1,44 @@
+{
+    "err": {
+        "404": ["Erreur 404", "Nous n'avons pas réussi à trouver la page demandée.", "Retour à l'accueil"]
+    },
+
+    "settings": {
+        "title": "Paramètres",
+
+        "appearance": "Modifier l'apparence",
+        "appearanceSub": "Au gré des goûts et des couleurs 🍃",
+        "locale": "Langue et région",
+        "theme": "Thème",
+        "themeLight": "Clair",
+        "themeDark": "Sombre",
+
+        "notification": "Modifier les notifications",
+        "notificationSub": "Diiiiing 🔔",
+        "requestNotification": "Autoriser les notifications",
+        "requestNotificationLabel": "Les notifications sont actuellement {allow} :",
+        "notificationAllowed": "autorisées",
+        "notificationNotAllowed": "non autorisées",
+
+        "notificationLabel": "À quelle heure doit être envoyée la notification ?"
+    },
+
+    "dashboard": {
+        "title": "Tableau de bord",
+
+        "prevMonth": "Mois précédent",
+        "nextMonth": "Mois suivant",
+
+        "moodavg": "Humeur globale",
+        "sleep": "Sommeil",
+        "anxiety": "Anxiété",
+        "darkthoughts": "Idées noires",
+        "ruminations": "Ruminations",
+        "notes": "Notes",
+        "submit": "Enregistrer"
+    },
+
+    "graphes": {
+        "title": "Évolution"
+    }
+}
